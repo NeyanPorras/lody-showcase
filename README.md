@@ -73,8 +73,9 @@ I gathered the requirements directly with the shop owner, designed the domain mo
 
 ## Status
 
-In daily production use since 2026. <!-- TODO: confirm start date -->
+In daily production use since **October 25, 2026**. The shop started from scratch on the system: no previous software and no data migration.
 
 ## Contact
 
-<!-- TODO: LinkedIn URL and email -->
+- LinkedIn: [Nella Agustín Porras](https://www.linkedin.com/in/nella-agustin-porras-b91754219/)
+- Email: [neyan.dev@gmail.com](mailto:neyan.dev@gmail.com)
