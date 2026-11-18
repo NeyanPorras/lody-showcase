@@ -3,8 +3,13 @@
 > A full-stack TypeScript PWA running **in production** at a real ice-cream shop in La Rioja, Argentina.
 > The source code is private (it belongs to a live business); this repository documents the product, the architecture and the technical decisions behind it.
 
-<!-- TODO: add 3-4 screenshots with fake data: POS screen, ticket, reports on mobile, offline badge -->
-<!-- ![POS screen](docs/pos.png) -->
+> Screenshots use demo data in an isolated database.
+
+![Point of sale](docs/pos.png)
+
+| Sale saved offline (provisional ticket `P-1`) | Reports on a phone |
+|---|---|
+| <img src="docs/offline-sale.png" alt="Sale saved without connection" width="560"> | <img src="docs/reports-mobile.png" alt="Reports on mobile" width="240"> |
 
 ## The problem
 
